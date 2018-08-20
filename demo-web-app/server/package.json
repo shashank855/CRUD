@@ -1,0 +1,25 @@
+{
+  "name": "product-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "cors": "2.8.1",
+    "mongoose": "^4.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugmodedotnet/mongodbnodejscrudapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugmodedotnet/mongodbnodejscrudapi/issues"
+  },
+  "homepage": "https://github.com/debugmodedotnet/mongodbnodejscrudapi#readme",
+  "description": ""
+}
